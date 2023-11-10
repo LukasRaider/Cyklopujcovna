@@ -1,3 +1,3 @@
 # Cyklopujcovna
 
-Public showing function web http://lukashuvar.borec.cz/Projects/Cyklopujcovna/indexcyklo.html
+Aplication for rents of bycicle, 4 type of the bycicle and accessories for transporting bycicle, day of rent and calculation summarry cost.
